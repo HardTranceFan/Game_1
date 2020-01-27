@@ -1,2 +1,2 @@
-# Project1
-First GDevelop project for a class
+# Game_1
+First GDevelop game for class
